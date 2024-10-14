@@ -1,20 +1,16 @@
-English 
+Bem-vindo ao meu Repositório! 👋
+Sobre Mim
+Olá! Eu sou Geliardi dos Santos Oliveira. Atualmente, estou aprendendo a programar e construindo uma base sólida para o futuro — que só o próprio futuro sabe onde vai me levar!
 
-1-Hello you guys, my name is Geliardi dos Santos Oliveira
-actually i'm just learning coding, but in the future, just the future knows!
+Objetivo
+Meu foco agora é aprimorar minhas habilidades de programação. Vou compartilhar aqui todos os projetos e códigos que forem importantes para minha carreira. Eles variam de funções simples a pequenos aplicativos e exercícios de aprendizado.
 
-2-My focus now, will be improve my coding skills, and i'll post here, every project that will be important to my carreer.
+O que Você Vai Encontrar
+Este repositório contém:
 
-3-If you interesting about me, just take a look, i'll be updating every time this profile with the every important increase in life.
-
-Portuguese
-
-1-Olá pessoal, meu nome é Geliardi dos Santos Oliveira
-atualmente estou apenas aprendendo a codificar, mas no futuro, apenas o futuro saberá!
-
-2-Meu foco agora, será melhorar minhas habilidades em codificação, e irei postar aqui, cada projeto que poderá ser ser importante para minhas carreira.
-
-3-Se você estiver interessado sobre mim, apenas the um olhada, eu atualualizarei sempre este perfil com cada importante incremento em minha vida.
-
-
+Pequenas funções e scripts em diversas linguagens.
+Projetos e exercícios de estudo.
+Códigos úteis que vou acumulando durante meu aprendizado.
+Siga as Atualizações
+Se você tiver interesse em acompanhar minha jornada, fique de olho! Planejo atualizar o perfil com tudo de importante que for surgindo em minha trajetória.
 
