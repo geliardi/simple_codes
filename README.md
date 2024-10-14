@@ -1,6 +1,3 @@
-Claro! Aqui vai uma versão simplificada e estruturada para o seu README:
-
----
 
 # Bem-vindo ao meu Repositório! 👋
 
