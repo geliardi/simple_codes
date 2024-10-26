@@ -3,13 +3,13 @@
 #include <string>
 
 /*
+Autor: Geliardi S. Oliveira
 
-algoritmo de teste de primalidade usando miller rabin.
+Algoritmo de teste de primalidade usando miller rabin.
 
-modo de uso: checar primo <numero>
+Modo de uso: checar primo <numero>
 
-para ser usado em linha de comando.
-
+Para ser usado em linha de comando.
 */
 
 // função rápida de calculo exponencial modular: base^exp % mod
